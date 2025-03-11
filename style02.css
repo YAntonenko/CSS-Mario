@@ -1,0 +1,44 @@
+/* Üldine */
+ 
+*{
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Banner */
+
+.header{
+    display: flex;
+}
+
+.logo{
+    color: #fff;
+    background-color: #ff3600;
+    font-size: 24px;
+    padding: 25px 50px;
+}
+
+.menu{
+    background-color: #333;
+}
+
+.menu ul{
+    display: flex;
+}
+
+
+
+/*sisu */
+
+
+
+
+
+/* jalus */
