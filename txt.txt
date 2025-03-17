@@ -1,4 +1,5 @@
 /* Üldine */
+/* Banner */
 
 /* päris ja menu */
 
